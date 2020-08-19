@@ -28,17 +28,31 @@ focus {
     
 }
 .ttc{
-	background-color:#59748e;
+	background-color:#5e8ebd;
 }
 .log-img{
-	margin-left: 100px;
+	margin-left: 0px;
 	height:80px
 }
 .head {
 	font-size: 15px;
     text-align: center;
-    padding-top: 7px;
+    padding-top: 30px;
     font-weight: 500;
+	color:#fff;
+
+}
+.heading{
+	    background-color: #d4e2f1;
+
+}
+.lable_head{
+	margin-bottom: 0px !important;
+    margin-top: 25px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: sans-serif;
+    color: #38497f;
 
 }
 
@@ -137,8 +151,8 @@ ul {
 }
 
 .login-form {
-    background-color:#e9f0f8;
-	width:100%;
+    /*background-color:#e9f0f8;
+	width:100%;*/
 }
 
 .login-form input {
