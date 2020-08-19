@@ -12,7 +12,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     height: 100%;
-	background-color:#fff;
+	background-color: #d4e2f1 !important;
 }
 a,
 a:hover,
@@ -35,7 +35,7 @@ focus {
 	height:80px
 }
 .head {
-	font-size: 15px;
+	font-size: 19px;
     text-align: center;
     padding-top: 30px;
     font-weight: 500;
@@ -51,7 +51,8 @@ focus {
     margin-top: 25px;
     font-size: 15px;
     font-weight: 500;
-    font-family: sans-serif;
+    
+	
     color: #38497f;
 
 }
