@@ -13,6 +13,7 @@ body {
     font-size: 20px;
     height: 100%;
 	background-color: #d4e2f1 !important;
+	
 }
 a,
 a:hover,
@@ -40,6 +41,7 @@ focus {
     padding-top: 30px;
     font-weight: 500;
 	color:#fff;
+	padding-right: 260px;
 
 }
 .heading{
@@ -53,7 +55,7 @@ focus {
     font-weight: 500;
     
 	
-    color: #38497f;
+    color: #000;
 
 }
 
